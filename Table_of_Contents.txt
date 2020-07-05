@@ -5,3 +5,13 @@
 5. [EN]index naming - [TR]index isimlendirme
 6. [EN]to create series via dictionary - [TR]sözlük ile seri oluşturma
 7. [EN]joining series - [TR]seri birleştirme
+8. [EN]element operations - [TR]eleman işlemleri
+9. [EN]element inquiry - [TR]eleman sorgulama
+10. [EN]Selecting elements with fancy - [TR]fancy ile eleman seçme
+11. [EN]Selecting elements with slice - [TR]slice ile eleman seçme
+12. [EN]creating DataFrame - [TR]DataFrame oluşturma
+13. [EN]DataFrame naming - [TR]DataFrame isimlendirme
+14. [EN]Element operations with dataframe - [TR]DataFrame ile eleman işlemleri
+15. [EN]index deletion - [TR]index silme
+16. [EN]operations with variables - [TR]değişkenler ile işlemler
+17. [EN]variable deletion - [TR]değişken silme işlemi
