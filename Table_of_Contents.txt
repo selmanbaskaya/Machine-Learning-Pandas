@@ -1,0 +1,7 @@
+1. [EN]what's pandas? - [TR]pandas nedir?
+2. [EN]properties of pandas - [TR]pandas'ın özellikleri
+3. [EN]creating series - [TR]seri oluşturma
+4. [EN]ready commands(axes, dtype, size, ndim, values, headi tail) - [TR]hazır komutlar
+5. [EN]index naming - [TR]index isimlendirme
+6. [EN]to create series via dictionary - [TR]sözlük ile seri oluşturma
+7. [EN]joining series - [TR]seri birleştirme
