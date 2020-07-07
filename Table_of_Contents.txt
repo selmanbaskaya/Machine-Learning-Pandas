@@ -15,3 +15,6 @@
 15. [EN]index deletion - [TR]index silme
 16. [EN]operations with variables - [TR]değişkenler ile işlemler
 17. [EN]variable deletion - [TR]değişken silme işlemi
+18. [EN]observation and Variable Selection: loc & iloc - [TR]gözlem ve Değişken Seçimi: loc & iloc
+19. [EN]conditional element operations - [TR]koşullu eleman işlemleri
+20. [EN]join operations - [TR]join işlemleri
