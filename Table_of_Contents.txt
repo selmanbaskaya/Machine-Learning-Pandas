@@ -18,3 +18,6 @@
 18. [EN]observation and Variable Selection: loc & iloc - [TR]gözlem ve Değişken Seçimi: loc & iloc
 19. [EN]conditional element operations - [TR]koşullu eleman işlemleri
 20. [EN]join operations - [TR]join işlemleri
+21. [EN]aggregation & grouping - [TR]toplulaştırma ve gruplama
+22. [EN]pivot table - [TR]pivot tablo
+23. [EN]reading outsourced data - [TR]dış kaynaklı veri okuma
